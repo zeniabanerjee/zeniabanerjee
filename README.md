@@ -1,12 +1,14 @@
-###                                                               Hi 👋, Myself Zenia Banerjee
+<h1 align="center">
+       Hi 👋, Myself Zenia Banerjee
+</h1>
 
-______________________________________________________________________________________________________________________________________________________________________
 
 
-![LesDoThisGIF](https://user-images.githubusercontent.com/106901860/179251359-8619a5ed-85b9-41bd-849f-39f956767daf.gif)
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/106901860/179251359-8619a5ed-85b9-41bd-849f-39f956767daf.gif" width="600" height="400" />
+</div>
 
 ## 📚 About me
-_______________________________________________________________________________________________________
 
 ## 🙋‍♀️ I'm a final year Computer Science Engineering Student at Hooghly Engineering and Technology College.
 
@@ -15,8 +17,9 @@ ________________________________________________________________________________
 ## 💬 Ask me about OOPs, Java,DBMS, Data Structure and Algorithms.
 
 ## 📫 How to reach me:
-    
-    [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/zenia-banerjee-9277601b4)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/zenia-banerjee-9277601b4)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:zenia.banerjee@gmail.com)
+
     
 ## 😄 Pronouns: She / Her 
 
