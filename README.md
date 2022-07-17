@@ -36,7 +36,7 @@
 
 <div align="center">
 
-💪Skills🏹
+## 💪Skills🏹
 
 
 ## Languages
@@ -58,12 +58,43 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeniabanerjee)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<br>
+
+
+<div align="center">
+<h1><b>
+ Github Checks
+</b></h1>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
+
+<div align="center">
+
+## Coding Profiles
+
+![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+</div>
+
 
 <div align="center">
 
 ## 📫 How to reach me:
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/zenia-banerjee-9277601b4)
+
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/zenia-banerjee-9277601b4) 
+
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:zenia.banerjee@gmail.com)
+
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/zeniabanerjee)
+
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1kRjVkSw914P0ZbyZKs4MenSf2ylFWUl_/view?usp=sharing)
 
 </div>
