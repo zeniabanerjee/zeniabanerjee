@@ -35,11 +35,13 @@
 
 
 <div align="center">
+<h1><b>
+ 🏹Skills<img src="https://media.giphy.com/media/AAvum98icEtZ79cFKn/giphy.gif" width="35px" height="40px">
+</b></h1>
 
-## 💪Skills🏹
-
-
-## Languages
+<h1><b>
+ ## 📒Languages⌨️<img src="https://media.giphy.com/media/yWnfMrmiqLQuZtFkt8/giphy.gif" width="35px" height="40px">
+</b></h1>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,12 +49,18 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## IDE
+
+<h1><b>
+ ## 👩‍💻IDE💻<img src="https://media.giphy.com/media/wUzxTGJEEcbbVKabq5/giphy.gif" width="35px" height="40px">
+</b></h1>
 
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Database
+<h1><b>
+ ## 💾Database📀<img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" width="35px" height="40px">
+</b></h1>
+
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -66,7 +74,7 @@
 
 <div align="center">
 <h1><b>
- Github Checks
+ Github Checks <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="20px" height="25px">
 </b></h1>
 
 
