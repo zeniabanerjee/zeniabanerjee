@@ -26,7 +26,7 @@
  
  <br />
 <div align="center">
-<a href="https://drive.google.com/file/d/1kRjVkSw914P0ZbyZKs4MenSf2ylFWUl_/view?usp=sharing" "> <img src="https://media.giphy.com/media/lzL7CXzh2C5JPUnBn9/giphy.gif" width="300px" height="320px" target="_blank"></a>
+<a href="https://drive.google.com/file/d/1M4Q0swcMUm3ycauPgLQAnv4wwGWs17sc/view?usp=sharing" "> <img src="https://media.giphy.com/media/lzL7CXzh2C5JPUnBn9/giphy.gif" width="300px" height="320px" target="_blank"></a>
 </div>
 <br />
 
@@ -92,6 +92,6 @@
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/zeniabanerjee)
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1kRjVkSw914P0ZbyZKs4MenSf2ylFWUl_/view?usp=sharing)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1M4Q0swcMUm3ycauPgLQAnv4wwGWs17sc/view?usp=sharing)
 
 </div>
