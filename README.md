@@ -30,7 +30,7 @@
  
  <br />
 <div align="center">
-<a href="https://drive.google.com/file/d/1kRjVkSw914P0ZbyZKs4MenSf2ylFWUl_/view?usp=sharing" "> <img src="https://media.giphy.com/media/wiL7rnxKvoMC49kEZ5/giphy.gif" width="460px" height="460px" target="_blank"></a>
+<a href="https://drive.google.com/file/d/1kRjVkSw914P0ZbyZKs4MenSf2ylFWUl_/view?usp=sharing" "> <img src="https://media.giphy.com/media/wiL7rnxKvoMC49kEZ5/giphy.gif" width="450px" height="320px" target="_blank"></a>
 </div>
 <br />
 
