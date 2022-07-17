@@ -86,7 +86,7 @@
 <h1><b>
 📫 How to reach me:</b></h1>
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/zenia-banerjee-9277601b4) 
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zenia-banerjee-9277601b4/) 
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:zenia.banerjee@gmail.com)
 
