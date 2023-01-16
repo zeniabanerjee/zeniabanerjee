@@ -92,6 +92,6 @@
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/zeniabanerjee)
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1M4Q0swcMUm3ycauPgLQAnv4wwGWs17sc/view?usp=sharing)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1hEH7fV3kj7IUN948JiKFRDAP2wlaCDnk/view?usp=share_link)
 
 </div>
