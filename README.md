@@ -14,7 +14,7 @@
 
  🌱 I’m currently learning DSA 
 
- 💬 Ask me about OOPs, Java,DBMS, Data Structure and Algorithms.
+ 💬 Ask me about OOPs, Java, DBMS, Data Structure, and Algorithms.
 
     
  😄 Pronouns: She / Her 
